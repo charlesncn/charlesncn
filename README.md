@@ -56,7 +56,8 @@
 
 
 ## Fun fact
-**Need more Coffee** ☕
+**Need more Coffee** ☕\
+<img src="https://github.com/charlesncn/charlesncn/blob/main/TrollFace-removebg-preview(1).png" width="100" height="50">
 
 
 
