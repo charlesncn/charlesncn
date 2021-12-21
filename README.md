@@ -5,19 +5,19 @@
 <!-- #56BCD9-->
 ## Current Projects:\
 > **CPMS**
->>> *Language* Java.\
->>> *Platform* Android.\
->>> [Link to the Repo](https://github.com/charlesncn/CPMS)
+>> *Language* Java.\
+>> *Platform* Android.\
+>> [Link to the Repo](https://github.com/charlesncn/CPMS)
 
->> **BLOG**
->>> *Technologies* MongoDb, Ejs, React, NodeJs.\
->>> *Platform* Web App.\
->>> [Link to the Repo](https://github.com/charlesncn/Mern_Blog)
+> **BLOG**
+>> *Technologies* MongoDb, Ejs, React, NodeJs.\
+>> *Platform* Web App.\
+>> [Link to the Repo](https://github.com/charlesncn/Mern_Blog)
 
 > **Food Orderng App**
->>> *Technologies* MongoDb, Ejs, React, NodeJs.\
->>> *Platform* Web App.\
->>> [Link to the Repo](https://github.com/charlesncn/food_ordering_mern)
+>> *Technologies* MongoDb, Ejs, React, NodeJs.\
+>> *Platform* Web App.\
+>> [Link to the Repo](https://github.com/charlesncn/food_ordering_mern)
 
 ## Currently learning
 > Flutter\
