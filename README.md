@@ -6,7 +6,7 @@
 
 
 - 🔭 Current Project -> CPMS
--       [a link](https://github.com/charlesncn/CPMS)
+      [a link](https://github.com/charlesncn/CPMS)
 - 🌱 Currently learning Flutter
 - ⚡ Fun fact: Need more Coffee
 
