@@ -41,9 +41,10 @@
 
 
 
+First Header  | Second Header
 ------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Content Cell\col3\col4  | Content Cell\col3\col4
+
 
 ## Fun fact
 **Need more Coffee** ☕
