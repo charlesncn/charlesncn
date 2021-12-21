@@ -23,7 +23,7 @@
 >>> [Link to the Repo](https://github.com/charlesncn/food_ordering_mern)
 
 ## Currently learning
-> Flutter
+> Flutter\
 > NodeJs
 
 ## Fun fact
