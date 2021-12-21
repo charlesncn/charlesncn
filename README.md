@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react)
 
 
-## Current Projects:
+## &#56BCD9; Current Projects:
 >> <img src="https://github.com/charlesncn/CPMS/blob/main/app/src/main/res/mipmap-xxhdpi/pj_icon.png" width="50" height="50">\
 >> **CPMS**
 >>> *Language* Java.\
