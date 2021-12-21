@@ -1,13 +1,16 @@
 ## I'm Charles Njuguna.
 #### I am a junior software engineer with a passion for developing innovative softwares. I'm Well-versed in technology and writing code
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react) <a href="https://github.com/charlesncn/github-readme-streak-stats">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react)
+
+<!-- <a href="https://github.com/charlesncn/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesncn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/charlesncn/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=charlesncn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+-->
 
 <!-- #56BCD9-->
 ## Current Projects:
@@ -26,15 +29,17 @@
 >> *Platform* Web App.\
 >> [Link to the Repo](https://github.com/charlesncn/food_ordering_mern)
 
+<!--
 ## Currently learning
 > Flutter\
 > NodeJs
-
+-->
 ## Tech Skills and Tools:
+<!--
 **frameworks:**
 > ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 > ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
+-->
 **Design:**
 > ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 > ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
