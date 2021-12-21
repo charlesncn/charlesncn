@@ -6,7 +6,8 @@
 
 
 > 🔭 Current Projects:
->> **CPMS**  <img src="https://github.com/charlesncn/CPMS/blob/main/app/src/main/res/mipmap-xxhdpi/pj_icon.png" width="50" height="50">\
+>> <img src="https://github.com/charlesncn/CPMS/blob/main/app/src/main/res/mipmap-xxhdpi/pj_icon.png" width="50" height="50">\
+>> **CPMS**\
 >>> *Language* Java.\
 >>> *Platform* Android.\
 >>> [Link to the Repo](https://github.com/charlesncn/CPMS)
