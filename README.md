@@ -7,12 +7,10 @@
 
 > 🔭 Current Projects:
 >> **CPMS**
-
+>> Logo <img src="https://github.com/charlesncn/CPMS/blob/main/app/src/main/res/mipmap-xxhdpi/pj_icon.png" width="50" height="50">
 >> [Link to the Repo](https://github.com/charlesncn/CPMS)
-> <img src="https://github.com/charlesncn/CPMS/blob/main/app/src/main/res/mipmap-xxhdpi/pj_icon.png" width="50" height="50">
-
 >> *Language* Java.
->> *Platform* Android
+>> *Platform* Android.
 
 
 > 🌱 Currently learning Flutter
