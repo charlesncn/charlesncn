@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react)
 
-## <span style="color: #56BCD9">Current Projects: </span>
+## <span style="color: &#56BCD9">Current Projects: </span>
 >> <img src="https://github.com/charlesncn/CPMS/blob/main/app/src/main/res/mipmap-xxhdpi/pj_icon.png" width="50" height="50">\
 >> **CPMS**
 >>> *Language* Java.\
@@ -30,3 +30,5 @@
 ## Fun fact
 **Need more Coffee** ☕
 
+
+<style>H1{color:#56BCD9;}</style>
