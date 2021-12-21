@@ -1,15 +1,10 @@
 ## I'm Charles Njuguna.
 #### I am a junior software engineer with a passion for developing innovative softwares. I'm Well-versed in technology and writing code
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react)
-
-
-
-<p align="center">
-    <a href="https://github.com/charlesncn/github-readme-streak-stats">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react) <a href="https://github.com/charlesncn/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesncn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+</a>
+
 <br/>
 
 <a href="https://github.com/charlesncn/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=charlesncn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
