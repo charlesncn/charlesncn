@@ -5,9 +5,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react)
-
-## <span style="color: &#56BCD9">Current Projects: </span>
->> <img src="https://github.com/charlesncn/CPMS/blob/main/app/src/main/res/mipmap-xxhdpi/pj_icon.png" width="50" height="50">\
+<!-- #56BCD9-->
+## Current Projects:\
 >> **CPMS**
 >>> *Language* Java.\
 >>> *Platform* Android.\
@@ -41,7 +40,7 @@
 
 
 
-Design | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+Programming Languages | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ------------- | -------------
 
 
