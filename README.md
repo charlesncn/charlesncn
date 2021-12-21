@@ -3,6 +3,7 @@
 ## I'm Charles Njuguna.
 #### I am a junior software engineer with a passion for developing innovative softwares. I'm Well-versed in technology and writing code
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesncn)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Current Projects:
