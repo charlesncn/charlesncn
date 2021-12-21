@@ -44,6 +44,7 @@
 First Header  | Second Header
 ------------- | -------------
 Content Cell\col3\col4  | Content Cell\col3\col4
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 
 ## Fun fact
