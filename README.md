@@ -5,8 +5,8 @@
 
 
 
-- 🔭 Current Project -> CPMS
-- [Link to the Repo](https://github.com/charlesncn/CPMS)
+- 🔭 Current Project -> CPMS [Link to the Repo](https://github.com/charlesncn/CPMS) ![](https://github.com/charlesncn/CPMS/blob/main/app/src/main/res/mipmap-xxhdpi/pj_icon.png)
+- 
 - 🌱 Currently learning Flutter
 - ⚡ Fun fact: Need more Coffee
 
