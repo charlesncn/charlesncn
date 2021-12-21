@@ -27,7 +27,7 @@
 > Flutter\
 > NodeJs
 
-## Tech Skills and Tools:
+
 > **frameworks:**
 >> ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 >> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -38,6 +38,13 @@
 
 > **version control:**
 >> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+>> 
+## Tech Skills and Tools: | ## Tech Skills and Tools:
+----------------------------------------------------------------------------- | --------------------------------------------------------------------------------
+Content Cell  | Content Cell
+Content Cell  |  | 
+
+
 ## Fun fact
 **Need more Coffee** ☕
 
