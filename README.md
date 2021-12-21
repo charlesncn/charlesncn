@@ -8,11 +8,11 @@
 >> *Language* Java.\
 >> *Platform* Android.\
 >> [Link to the Repo](https://github.com/charlesncn/CPMS)
-<!--
+
 > **BLOG**
 >> *Technologies* MongoDb, Ejs, React, NodeJs.\
 >> *Platform* Web App.\
->> [Link to the Repo](https://github.com/charlesncn/Mern_Blog)-->
+>> [Link to the Repo](https://github.com/charlesncn/Mern_Blog)
 
 > **Food Orderng App**
 >> *Technologies* MongoDb, Ejs, React, NodeJs.\
