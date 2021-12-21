@@ -31,4 +31,12 @@
 **Need more Coffee** ☕
 
 
-<style>H1{color:#56BCD9;}</style>
+# Color Test Document
+
+<style>H1{color:Blue;}</style>
+<style>H2{color:DarkOrange;}</style>
+<style>p{color:Black;}</style>
+
+## Second Heading
+
+This is a test to see how the colors work.
