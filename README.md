@@ -55,7 +55,7 @@
 
 
 
-## Fun fact
+## Fun Fact
 **Need more Coffee** ☕\
 ![Hehe](https://github.com/charlesncn/charlesncn/blob/main/thumbs-up.gif)
 
