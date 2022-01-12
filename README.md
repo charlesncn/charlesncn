@@ -1,8 +1,9 @@
 ## I'm Charles Njuguna.
 #### I am a junior software engineer with a passion for developing innovative softwares. I'm Well-versed in technolog
-
-> ![charlesncn](https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react)
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesncn&layout=compact)](https://github.com/charlesncn/github-readme-stats)
+> ## Profile Statistics\
+> ![charlesncn](https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react)\
+> ## Languages
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesncn&layout=compact&theme=react)](https://github.com/charlesncn/github-readme-stats)
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=charlesncn&repo=github-readme-stats)](https://github.com/charlesncn/github-readme-stats)
 -->
 <!-- <a href="https://github.com/charlesncn/github-readme-streak-stats">
