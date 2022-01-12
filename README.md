@@ -1,5 +1,5 @@
 ## I'm Charles Njuguna.
-#### I am a junior software engineer with a passion for developing innovative softwares. I'm Well-versed in technolog
+#### I am a junior software engineer and blockchain developer with a passion for developing innovative solutions.
 > **Profile Statistics**\
 > ![charlesncn](https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react)\
 > **Languages**\
