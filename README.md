@@ -48,6 +48,33 @@
 
 
 
+
+
+<table>
+  <tr>
+    <td valign="top">Project name</td>
+    <td valign="top">Technology/Language</td>
+    <td valign="top">Platform</td>
+    <td valign="top">Link to the Repo</td>
+  </tr>
+  <tr>
+    <td valign="top"> BLOG</td>
+    <td valign="top">MongoDb, Ejs, React, NodeJs</td>
+    <td valign="top">Web Application</td>
+    <td valign="top"><a href="https://github.com/charlesncn/Mern_Blog">Blog Repo</a></td>
+  </tr>
+  <tr>
+    <td valign="top"> CPMS</td>
+    <td valign="top">MongoDb, Ejs, React, NodeJs</td>
+    <td valign="top">Web Application</td>
+    <td valign="top"><a href="https://github.com/charlesncn/food_ordering_mern">Food Ordering MERN Repo</a></td>
+  </tr>
+
+</table>
+
+
+
+
 <!-- ## Current Projects:
 > **CPMS**
 >> *Language* Java.\
@@ -89,9 +116,9 @@
 
 
 
-
+<!-- 
 ## Fun Fact
 **Need more Coffee** ☕\
-<!-- ![Hehe](https://github.com/charlesncn/charlesncn/blob/main/thumbs-up.gif) -->
+![Hehe](https://github.com/charlesncn/charlesncn/blob/main/thumbs-up.gif) -->
 
 
