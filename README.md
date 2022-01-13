@@ -22,7 +22,7 @@
 
 
 ## Current Projects:
-<table border="30" style="border-collapse:collapse">
+<table border="0.00000001">
   <tr>
     <th valign="top">Project name</th>
     <th valign="top">Technology/Language</th>
