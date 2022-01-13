@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-
+<!--
 ## Current Projects:
 <table border="0.00000001">
   <tr>
@@ -49,34 +49,28 @@
   </tr>
 
 </table>
+-->
 
 
 
 
 
 
-
-<!-- ## Current Projects:
-> **CPMS**
+## Current Projects:
+>> **Construction Project Management System**
 >> *Language* Java.\
->> *Platform* Android.\
 >> [Link to the Repo](https://github.com/charlesncn/CPMS)
 
-> **BLOG**
+> **Markdown BLOG**
 >> *Technologies* MongoDb, Ejs, React, NodeJs.\
->> *Platform* Web App.\
+
 >> [Link to the Repo](https://github.com/charlesncn/Mern_Blog)
 
 > **Food Orderng App**
 >> *Technologies* MongoDb, Ejs, React, NodeJs.\
->> *Platform* Web App.\
 >> [Link to the Repo](https://github.com/charlesncn/food_ordering_mern)
- -->
-<!--
-## Currently learning
-> Flutter\
-> NodeJs
--->
+
+
 ## Tech Skills and Tools:
 
 **frameworks:**
