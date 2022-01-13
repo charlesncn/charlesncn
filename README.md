@@ -20,57 +20,38 @@
   </tr>
 </table>
 
+
 ## Current Projects:
-<table>
+<table border="30" style="border-collapse:collapse">
   <tr>
-    <td valign="top">CPMS</td>
-    <td valign="top">BLOG</td>
-    <td valign="top">FOOD ORDERING APP</td>
+    <th valign="top">Project name</th>
+    <th valign="top">Technology/Language</th>
+    <th valign="top">Platform</th>
+    <th valign="top">Link to the Repo</th>
   </tr>
   <tr>
-    <td valign="top">
-            <b>Language </b>    Java.<br>
-            <b>Platform</b>     Android.<br>
-            <a href="https://github.com/charlesncn/CPM">Link to the Repo</a>
-    </td>
-    <td valign="top"><b>Technologies</b>     MongoDb, Ejs, React, NodeJs.<br>
-            <b>Platform</b>        Web App.<br>
-            <a href="https://github.com/charlesncn/Mern_Blog)">Link to the Repo<a>
-    </td>
-    <td valign="top">
-            <b>Language</b>     MongoDb, Ejs, React, NodeJs.<br>
-            <b>Platform<b>      Web Application.<br>
-            <a href="https://github.com/charlesncn/food_ordering_mern">Link to the Repo</a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-<table>
-  <tr>
-    <td valign="top">Project name</td>
-    <td valign="top">Technology/Language</td>
-    <td valign="top">Platform</td>
-    <td valign="top">Link to the Repo</td>
+    <td valign="top"> Construction Project Management System</td>
+    <td valign="top">Java</td>
+    <td valign="top">Andoid Application</td>
+    <td valign="top"><a href="https://github.com/charlesncn/CPMS">Blog Repo</a></td>
   </tr>
   <tr>
-    <td valign="top"> BLOG</td>
+    <td valign="top">Markdoen BLOG</td>
     <td valign="top">MongoDb, Ejs, React, NodeJs</td>
     <td valign="top">Web Application</td>
     <td valign="top"><a href="https://github.com/charlesncn/Mern_Blog">Blog Repo</a></td>
   </tr>
   <tr>
-    <td valign="top"> CPMS</td>
+    <td valign="top"> Food Ordering MERN App</td>
     <td valign="top">MongoDb, Ejs, React, NodeJs</td>
     <td valign="top">Web Application</td>
     <td valign="top"><a href="https://github.com/charlesncn/food_ordering_mern">Food Ordering MERN Repo</a></td>
   </tr>
 
 </table>
+
+
+
 
 
 
