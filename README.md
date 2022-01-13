@@ -28,19 +28,19 @@
     <td valign="top">FOOD ORDERING APP</td>
   </tr>
   <tr>
-    <td valign="top" width="30%">
+    <td valign="top">
             <b>Language </b>    Java.<br>
-            Platform* Android.<br>
+            <b>Platform</b>     Android.<br>
             <a href="https://github.com/charlesncn/CPM">Link to the Repo</a>
     </td>
-    <td valign="top" width="30%"><b>Technologies</b> MongoDb, Ejs, React, NodeJs.<br>
+    <td valign="top"><b>Technologies</b>     MongoDb, Ejs, React, NodeJs.<br>
             <b>Platform</b>        Web App.<br>
-            <a href="https://github.com/charlesncn/CPM">Link to the Repo<a>
+            <a href="https://github.com/charlesncn/Mern_Blog)">Link to the Repo<a>
     </td>
     <td valign="top">
-            <b>Language Java.</b><br>
-            <b>Platform<b>      Android.<br>
-            <a href="https://github.com/charlesncn/CPM">Link to the Repo</a>
+            <b>Language</b>     MongoDb, Ejs, React, NodeJs.<br>
+            <b>Platform<b>      Web Application.<br>
+            <a href="https://github.com/charlesncn/food_ordering_mern">Link to the Repo</a>
     </td>
   </tr>
 </table>
@@ -48,7 +48,7 @@
 
 
 
-## Current Projects:
+<!-- ## Current Projects:
 > **CPMS**
 >> *Language* Java.\
 >> *Platform* Android.\
@@ -63,18 +63,18 @@
 >> *Technologies* MongoDb, Ejs, React, NodeJs.\
 >> *Platform* Web App.\
 >> [Link to the Repo](https://github.com/charlesncn/food_ordering_mern)
-
+ -->
 <!--
 ## Currently learning
 > Flutter\
 > NodeJs
 -->
 ## Tech Skills and Tools:
-<!--
+
 **frameworks:**
 > ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 > ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
--->
+
 **Design:**
 > ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 > ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -92,6 +92,6 @@
 
 ## Fun Fact
 **Need more Coffee** ☕\
-![Hehe](https://github.com/charlesncn/charlesncn/blob/main/thumbs-up.gif)
+<!-- ![Hehe](https://github.com/charlesncn/charlesncn/blob/main/thumbs-up.gif) -->
 
 
