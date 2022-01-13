@@ -1,20 +1,31 @@
 ## I'm Charles Njuguna.
 #### I am a junior software engineer and blockchain developer with a passion for developing innovative solutions.
-> **Profile Statistics**\
-> ![charlesncn](https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react&hide_title=true)\
-> **Used Languages**\
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesncn&layout=compact&theme=react&hide_title=true&langs_count=10&card_width=443)](https://github.com/charlesncn/github-readme-stats)
 
-<span style="display:flex" class="parent">
-        <span class="child" style="width:50">
-                <p>hey</p>
-        </span>
-        <span class="child" style="width:50">
-                <p>hey</p>
-        </span>
-</span>
 
-<!-- #56BCD9-->
+<div style="display:flex" class="parent">
+<!--         <span style="width:50">hey</span>
+        <span>hey</span> -->
+        
+        
+</div>
+
+<table border=0px>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react&hide_title=true"/>\
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesncn&layout=compact&theme=react&hide_title=true&langs_count=10&card_width=443)](https://github.com/charlesncn/github-readme-stats"/>
+    </td>
+    <td valign="top" width="30%">
+            <img src="https://github.com/charlesncn/charlesncn/blob/main/thumbs-up.gif">
+    </td>
+  </tr>
+</table>
+
+
+<table>
+        <th> ## Current projects</th>
+
+</table>
+
 ## Current Projects:
 > **CPMS**
 >> *Language* Java.\
