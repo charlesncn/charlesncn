@@ -57,18 +57,17 @@
 
 
 ## Current Projects:
->> **Construction Project Management System**
->> *Language* Java.\
->> [Link to the Repo](https://github.com/charlesncn/CPMS)
+ **Construction Project Management System**
+> *Language* Java.\
+> [Link to the Repo](https://github.com/charlesncn/CPMS)
 
-> **Markdown BLOG**
->> *Technologies* MongoDb, Ejs, React, NodeJs.\
+**Markdown BLOG**
+> *Technologies* MongoDb, Ejs, React, NodeJs.\
+> [Link to the Repo](https://github.com/charlesncn/Mern_Blog)
 
->> [Link to the Repo](https://github.com/charlesncn/Mern_Blog)
-
-> **Food Orderng App**
->> *Technologies* MongoDb, Ejs, React, NodeJs.\
->> [Link to the Repo](https://github.com/charlesncn/food_ordering_mern)
+**Food Orderng App**
+> *Technologies* MongoDb, Ejs, React, NodeJs.\
+> [Link to the Repo](https://github.com/charlesncn/food_ordering_mern)
 
 
 ## Tech Skills and Tools:
