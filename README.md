@@ -2,7 +2,7 @@
 #### I am a junior software engineer and blockchain developer with a passion for developing innovative solutions.
 > **Profile Statistics**\
 > ![charlesncn](https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react&hide_title=true)\
-> **Languages**\
+> **Used Languages**\
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesncn&layout=compact&theme=react&hide_title=true&langs_count=10&card_width=443)](https://github.com/charlesncn/github-readme-stats)
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=charlesncn&repo=github-readme-stats)](https://github.com/charlesncn/github-readme-stats)
 -->
