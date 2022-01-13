@@ -29,15 +29,19 @@
   </tr>
   <tr>
     <td valign="top" width="30%">
-            <b>Language </b> Java.<br>
+            <b>Language </b>    Java.<br>
             Platform* Android.<br>
             <a href="https://github.com/charlesncn/CPM">Link to the Repo</a>
     </td>
     <td valign="top" width="30%"><b>Technologies</b> MongoDb, Ejs, React, NodeJs.<br>
-            Platform* Web App.<br>
+            <b>Platform</b>        Web App.<br>
             <a href="https://github.com/charlesncn/CPM">Link to the Repo<a>
     </td>
-    <td valign="top">Language Java.\ Platform* Android.\ [Link to the Repo](https://github.com/charlesncn/CPM</td>
+    <td valign="top">
+            <b>Language Java.</b><br>
+            <b>Platform<b>      Android.<br>
+            <a href="https://github.com/charlesncn/CPM">Link to the Repo</a>
+    </td>
   </tr>
 </table>
 
