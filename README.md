@@ -4,16 +4,15 @@
 > ![charlesncn](https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react&hide_title=true)\
 > **Used Languages**\
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesncn&layout=compact&theme=react&hide_title=true&langs_count=10&card_width=443)](https://github.com/charlesncn/github-readme-stats)
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=charlesncn&repo=github-readme-stats)](https://github.com/charlesncn/github-readme-stats)
--->
-<!-- <a href="https://github.com/charlesncn/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesncn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</a>
 
-<br/>
-
-<a href="https://github.com/charlesncn/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=charlesncn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
--->
+<span style="display:flex" class="parent">
+        <span class="child" style="width:50">
+                <p>hey</p>
+        </span>
+        <span class="child" style="width:50">
+                <p>hey</p>
+        </span>
+</span>
 
 <!-- #56BCD9-->
 ## Current Projects:
