@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-
+## Current Projects:
 <table>
   <tr>
     <td valign="top">CPMS</td>
@@ -28,43 +28,21 @@
     <td valign="top">FOOD ORDERING APP</td>
   </tr>
   <tr>
-    <td valign="top" width="30%">Language Java.<br>
+    <td valign="top" width="30%">
+            <b>Language </b> Java.<br>
             Platform* Android.<br>
             <a href="https://github.com/charlesncn/CPM">Link to the Repo</a>
     </td>
-    <td valign="top">Language Java.\ Platform* Android.\ [Link to the Repo](https://github.com/charlesncn/CPM</td>
+    <td valign="top" width="30%"><b>Technologies</b> MongoDb, Ejs, React, NodeJs.<br>
+            Platform* Web App.<br>
+            <a href="https://github.com/charlesncn/CPM">Link to the Repo<a>
+    </td>
     <td valign="top">Language Java.\ Platform* Android.\ [Link to the Repo](https://github.com/charlesncn/CPM</td>
   </tr>
 </table>
 
 
 
-
-<table>
-        <tr>
-                <td>CPMS</td>
-                <td>BLOG</td>
-                <td>FOOD ORDERING APP</td>
-        </tr>
-        
-        <tr>
-                <th>CPMS</th>
-                <th>BLOG</th>
-                <th>FOOD ORDERING APP</th>
-        </tr>
-        
-        <tr>
-                <td valign="top" > Language Java.\ Platform* Android.\ [Link to the Repo](https://github.com/charlesncn/CPM </td>
-                
-                <td valign="top" > Language Java.\ Platform* Android.\ [Link to the Repo](https://github.com/charlesncn/CPM </td>
-                
-                <td valign="top" > Language Java.\ Platform* Android.\ [Link to the Repo](https://github.com/charlesncn/CPM </td>
-        </tr>
-        
-       
-        
-
-</table>
 
 ## Current Projects:
 > **CPMS**
