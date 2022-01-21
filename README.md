@@ -1,4 +1,4 @@
-## I'm Charles Njuguna.
+
 #### I am a junior software engineer and blockchain developer with a passion for developing innovative solutions.
 
 
