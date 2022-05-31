@@ -88,27 +88,26 @@ JSON         30 mins         █░░░░░░░░░░░░░░░░
     <td>
 <p>
           
-```python
-  ------------Roadmap------------
-└── WEB DEVELOPMENT               
-│   └── HTML | CSS                
-│   └── JavaScript                
-│   │   └── React                 
-│   │   └── Angular               
-└── API DEV | INTEGRATION       
-│   └── RESTful API               
-│   │   └── NodeJs                
-│   │   └── Java                  
-│   │   │   │   └── Spring Boot   
-│   │   └── Python                
-│   │   │   │   └── Flask         
-│   │   │   │   └── Django        
-└── ANDROID DEV                   
-│   └── Java                      
-|   |   └── Android SDK           
-│   └── Flutter                   
-|   |   └── Dart                  
-  ------------Roadmap------------
+```java
+  ----------------Motivation----------------  
+always:
+   try{
+      your best &&;
+      do{
+         what you need to do;
+      }while(you still have time);
+   
+      for(opportunitiy comes only once){
+         so grab the chance;
+      }
+      if(fail == true){
+         try again;
+      }
+   }catch(yourself){
+      everytime you fail;
+      reach out for help;
+   }
+  ----------------Motivation----------------  
 ```
 </p>
     </td>
