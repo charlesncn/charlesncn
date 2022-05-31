@@ -32,14 +32,12 @@ __) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |
     </td>
     <td valign="top" width="50%">
             <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
-
-    
   </tr>
 </table>
 
 <div align="center">
 
-## snapshot of my work day
+## Work Day Snapshot
    
 </div>
 
@@ -50,6 +48,78 @@ JavaScript   60 mins         ███░░░░░░░░░░░░░░
 Linux        45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░░░░░░    7.75 %
 JSON         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    5.00 %
 ```
+
+<div align="center">
+  
+## My Programming Roadmap
+  
+</div>
+
+
+<table align="center">
+  <tr>
+    <td>
+<p>
+          
+```python
+  ------------Roadmap------------
+└── WEB DEVELOPMENT               
+│   └── HTML | CSS                
+│   └── JavaScript                
+│   │   └── React                 
+│   │   └── Angular               
+└── API DEV | INTEGRATION       
+│   └── RESTful API               
+│   │   └── NodeJs                
+│   │   └── Java                  
+│   │   │   │   └── Spring Boot   
+│   │   └── Python                
+│   │   │   │   └── Flask         
+│   │   │   │   └── Django        
+└── ANDROID DEV                   
+│   └── Java                      
+|   |   └── Android SDK           
+│   └── Flutter                   
+|   |   └── Dart                  
+  ------------Roadmap------------
+```
+</p>
+    </td>
+    <td>
+<p>
+          
+```python
+  ------------Roadmap------------
+└── WEB DEVELOPMENT               
+│   └── HTML | CSS                
+│   └── JavaScript                
+│   │   └── React                 
+│   │   └── Angular               
+└── API DEV | INTEGRATION       
+│   └── RESTful API               
+│   │   └── NodeJs                
+│   │   └── Java                  
+│   │   │   │   └── Spring Boot   
+│   │   └── Python                
+│   │   │   │   └── Flask         
+│   │   │   │   └── Django        
+└── ANDROID DEV                   
+│   └── Java                      
+|   |   └── Android SDK           
+│   └── Flutter                   
+|   |   └── Dart                  
+  ------------Roadmap------------
+```
+</p>
+    </td>
+  </tr>
+</table>
+
+
+
+   
+
+
 
 <div align="center">
         
@@ -87,35 +157,7 @@ JSON         30 mins         █░░░░░░░░░░░░░░░░
 > *Technologies* MongoDb, Ejs, React, NodeJs.  [View Code](https://github.com/charlesncn/food_ordering_mern)
 
 <div>
-<div align="center">
-  
-## My Programming Roadmap
-  
-</div>
-  
-```python
-  ------------Roadmap------------
-└── WEB DEVELOPMENT               
-│   └── HTML | CSS                
-│   └── JavaScript                
-│   │   └── React                 
-│   │   └── Angular               
-└── API DEV | INTEGRATION       
-│   └── RESTful API               
-│   │   └── NodeJs                
-│   │   └── Java                  
-│   │   │   │   └── Spring Boot   
-│   │   └── Python                
-│   │   │   │   └── Flask         
-│   │   │   │   └── Django        
-└── ANDROID DEV                   
-│   └── Java                      
-|   |   └── Android SDK           
-│   └── Flutter                   
-|   |   └── Dart                  
-  ------------Roadmap------------
-```
-</div>
+
 
 <!-- 
 ## Fun Fact
