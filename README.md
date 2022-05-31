@@ -1,3 +1,7 @@
+```text
+user@GITHUB:~$ whoami
+  Charles Njuguna
+```
 
 #### I am a junior software engineer and blockchain developer with a passion for developing innovative solutions.
 <p align="center">
@@ -94,7 +98,32 @@ JSON         30 mins         █░░░░░░░░░░░░░░░░
 **Food Orderng App**
 > *Technologies* MongoDb, Ejs, React, NodeJs.  [View Code](https://github.com/charlesncn/food_ordering_mern)
 
+<div>
 
+## My Programming Roadmap:
+  
+```
+└── Web Development
+│   └── HTML | CSS
+│   └── JavaScript
+│   │   └── React
+│   │   └── Angular
+|   
+└── API Dev and Integration
+│   └── RESTful API
+│   │   └── NodeJs
+│   │   └── Java
+│   │   │   │   └── Spring Boot
+│   │   └── Python
+│   │   │   │   └── Flask
+│   │   │   │   └── Django
+ └── Android Dev
+│   └── Java
+|   |   └── Android SDK
+│   └── Flutter
+|   |   └── Dart
+```
+</div>
 
 <!-- 
 ## Fun Fact
