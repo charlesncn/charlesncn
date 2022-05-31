@@ -1,9 +1,20 @@
 ```text
 user@GITHUB:~$ whoami
-  Charles Njuguna
+ ,-----. ,--.                       ,--.                                     
+'  .--./ |  ,---.   ,--,--. ,--.--. |  |  ,---.   ,---.    
+|  |     |  .-.  | ' ,-.  | |  .--' |  | | .-. : (  .-'  
+'  '--'\ |  | |  | \ '-'  | |  |    |  | \   --. .-'  `) 
+ `-----' `--' `--'  `--`--' `--'    `--'  `----' `----'  
+
+user@GITHUB:~$ $ who -u
+  __         _                              _                                      
+ (_    _   _|_  _|_         _.  ._   _     | \   _        _   |   _   ._    _   ._ 
+ __)  (_)   |    |_  \/\/  (_|  |   (/_    |_/  (/_  \/  (/_  |  (_)  |_)  (/_  |  
+                                                                      |
 ```
 
-#### I am a junior software engineer and blockchain developer with a passion for developing innovative solutions.
+
+<!-- #### I am a junior software engineer and blockchain developer with a passion for developing innovative solutions. -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
@@ -99,29 +110,33 @@ JSON         30 mins         █░░░░░░░░░░░░░░░░
 > *Technologies* MongoDb, Ejs, React, NodeJs.  [View Code](https://github.com/charlesncn/food_ordering_mern)
 
 <div>
-
-## My Programming Roadmap:
+<div align="center">
+  
+## My Programming Roadmap
+  
+</div>
   
 ```
-└── Web Development
-│   └── HTML | CSS
-│   └── JavaScript
-│   │   └── React
-│   │   └── Angular
-|   
-└── API Dev and Integration
-│   └── RESTful API
-│   │   └── NodeJs
-│   │   └── Java
-│   │   │   │   └── Spring Boot
-│   │   └── Python
-│   │   │   │   └── Flask
-│   │   │   │   └── Django
- └── Android Dev
-│   └── Java
-|   |   └── Android SDK
-│   └── Flutter
-|   |   └── Dart
+  ------------Roadmap------------
+└── Web Development               :
+│   └── HTML | CSS                :
+│   └── JavaScript                :
+│   │   └── React                 :
+│   │   └── Angular               :
+└── API Dev and Integration       :
+│   └── RESTful API               :
+│   │   └── NodeJs                :
+│   │   └── Java                  :
+│   │   │   │   └── Spring Boot   :
+│   │   └── Python                :
+│   │   │   │   └── Flask         :
+│   │   │   │   └── Django        :
+└── Android Dev                   :
+│   └── Java                      :
+|   |   └── Android SDK           :
+│   └── Flutter                   :
+|   |   └── Dart                  :
+  ------------Roadmap------------
 ```
 </div>
 
