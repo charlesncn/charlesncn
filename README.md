@@ -1,11 +1,11 @@
 ```java
-charlesncn@GITHUB:~$ whoami
+user@GITHUB:~$ whoami
    ___   _                   _            
   / __| | |_    __ _   _ _  | |  ___   ___
  | (__  | ' \  / _` | | '_| | | / -_) (_-<
   \___| |_||_| \__,_| |_|   |_| \___| /__/
 
-charlesncn@GITHUB:~$ who -u
+-user@GITHUB:~$ $ who -u
  __      _                     __                           
 (_   _  (_ |_      _   _  _   |  \  _     _ |  _   _   _  _ 
 __) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |  
@@ -169,82 +169,3 @@ always:
 <p><a href="https://www.twitter.com/netcn3"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/njugunacharles"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/cn5.0/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> </p>
 </div>
 
-
-
-
-<!-- **More Coffee** ☕ -->
-
-
-
-
-
-
-
-<!-- 
-
-  ______  _                    _              
- / _____)| |                  | |             
-| /      | | _    ____   ____ | |  ____   ___ 
-| |      | || \  / _  | / ___)| | / _  ) /___)
-| \_____ | | | |( ( | || |    | |( (/ / |___ |
- \______)|_| |_| \_||_||_|    |_| \____)(___/ 
-   ____   _                      _              
-  / ___| | |__     __ _   _ __  | |   ___   ___ 
- | |     | '_ \   / _` | | '__| | |  / _ \ / __|
- | |___  | | | | | (_| | | |    | | |  __/ \__ \
-  \____| |_| |_|  \__,_| |_|    |_|  \___| |___/
- 
- ,-----. ,--.                       ,--.                                     
-'  .--./ |  ,---.   ,--,--. ,--.--. |  |  ,---.   ,---.    
-|  |     |  .-.  | ' ,-.  | |  .--' |  | | .-. : (  .-'  
-'  '--'\ |  | |  | \ '-'  | |  |    |  | \   --. .-'  `) 
- `-----' `--' `--'  `--`--' `--'    `--'  `----' `----'  
-  __         _                          
- (_    _   _|_  _|_         _.  ._   _  
- __)  (_)   |    |_  \/\/  (_|  |   (/_ 
-
-  _                                      
- | \   _        _   |   _   ._    _   ._ 
- |_/  (/_  \/  (/_  |  (_)  |_)  (/_  |  
-                            | 
- __      _                     __                           
-(_   _  (_ |_      _   _  _   |  \  _     _ |  _   _   _  _ 
-__) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |  
-                                                  |   
-
--->
-
-
-
-<!--             <img src="https://github.com/charlesncn/charlesncn/blob/main/thumbs-up.gif"> -->
-
-<!--
-## Current Projects:
-<table border="0.00000001">
-  <tr>
-    <th valign="top">Project name</th>
-    <th valign="top">Technology/Language</th>
-    <th valign="top">Platform</th>
-    <th valign="top">Link to the Repo</th>
-  </tr>
-  <tr>
-    <td valign="top"> Construction Project Management System</td>
-    <td valign="top">Java</td>
-    <td valign="top">Andoid Application</td>
-    <td valign="top"><a href="https://github.com/charlesncn/CPMS">Blog Repo</a></td>
-  </tr>
-  <tr>
-    <td valign="top">Markdoen BLOG</td>
-    <td valign="top">MongoDb, Ejs, React, NodeJs</td>
-    <td valign="top">Web Application</td>
-    <td valign="top"><a href="https://github.com/charlesncn/Mern_Blog">Blog Repo</a></td>
-  </tr>
-  <tr>
-    <td valign="top"> Food Ordering MERN App</td>
-    <td valign="top">MongoDb, Ejs, React, NodeJs</td>
-    <td valign="top">Web Application</td>
-    <td valign="top"><a href="https://github.com/charlesncn/food_ordering_mern">Food Ordering MERN Repo</a></td>
-  </tr>
-
-</table>
--->
