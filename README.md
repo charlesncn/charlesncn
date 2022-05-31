@@ -152,24 +152,24 @@ JSON         30 mins         █░░░░░░░░░░░░░░░░
   
 ```
   ------------Roadmap------------
-└── Web Development               :
-│   └── HTML | CSS                :
-│   └── JavaScript                :
-│   │   └── React                 :
-│   │   └── Angular               :
-└── API Dev and Integration       :
-│   └── RESTful API               :
-│   │   └── NodeJs                :
-│   │   └── Java                  :
-│   │   │   │   └── Spring Boot   :
-│   │   └── Python                :
-│   │   │   │   └── Flask         :
-│   │   │   │   └── Django        :
-└── Android Dev                   :
-│   └── Java                      :
-|   |   └── Android SDK           :
-│   └── Flutter                   :
-|   |   └── Dart                  :
+└── Web Development               
+│   └── HTML | CSS                
+│   └── JavaScript                
+│   │   └── React                 
+│   │   └── Angular               
+└── API Dev and Integration       
+│   └── RESTful API               
+│   │   └── NodeJs                
+│   │   └── Java                  
+│   │   │   │   └── Spring Boot   
+│   │   └── Python                
+│   │   │   │   └── Flask         
+│   │   │   │   └── Django        
+└── Android Dev                   
+│   └── Java                      
+|   |   └── Android SDK           
+│   └── Flutter                   
+|   |   └── Dart                  
   ------------Roadmap------------
 ```
 </div>
