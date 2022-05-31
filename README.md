@@ -9,7 +9,7 @@
         
 </div>
 
-<table border=0px>
+<table border=0.1px>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react&hide_title=true"/> <br>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesncn&layout=compact&theme=react&hide_title=true&langs_count=10&card_width=443)](https://github.com/charlesncn/github-readme-stats"/>
@@ -60,7 +60,6 @@ Linux        45 mins         ██▒░░░░░░░░░░░░░░
 JSON         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    5.00 %
 ```
 
-
 ## Current Projects:
  **Construction Project Management System**
 > *Language* Java.   [View Code](https://github.com/charlesncn/CPMS)
@@ -73,7 +72,6 @@ JSON         30 mins         █░░░░░░░░░░░░░░░░
 
 
 ## Tech Skills and Tools:
-
 **frameworks:**
 > ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 > ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
