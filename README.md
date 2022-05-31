@@ -1,7 +1,6 @@
 
 #### I am a junior software engineer and blockchain developer with a passion for developing innovative solutions.
 
-
 <div style="display:flex" class="parent">
 <!--         <span style="width:50">hey</span>
         <span>hey</span> -->
@@ -14,7 +13,7 @@
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react&hide_title=true"/> <br>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesncn&layout=compact&theme=react&hide_title=true&langs_count=10&card_width=443)](https://github.com/charlesncn/github-readme-stats"/>
     </td>
-    <td valign="top" width="55%">
+    <td valign="top" width="50%">
             <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
 
     
@@ -55,7 +54,7 @@
 -->
 
 ## snapshot of my work day:
-```text
+```
 Java         6 hr 30 mins    ███████████████████░░░░░░░░░░░   65.00 %
 Python       1hr 15 mins     ████▒░░░░░░░░░░░░░░░░░░░░░░░░░   12.50 %
 JavaScript   60 mins         ███░░░░░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
