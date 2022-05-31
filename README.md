@@ -95,12 +95,12 @@ JSON         30 mins         █░░░░░░░░░░░░░░░░
   
 ```python
   ------------Roadmap------------
-└── Web Development               
+└── WEB DEVELOPMENT               
 │   └── HTML | CSS                
 │   └── JavaScript                
 │   │   └── React                 
 │   │   └── Angular               
-└── API Dev | Integration       
+└── API DEV | INTEGRATION       
 │   └── RESTful API               
 │   │   └── NodeJs                
 │   │   └── Java                  
@@ -108,7 +108,7 @@ JSON         30 mins         █░░░░░░░░░░░░░░░░
 │   │   └── Python                
 │   │   │   │   └── Flask         
 │   │   │   │   └── Django        
-└── Android Dev                   
+└── ANDROID DEV                   
 │   └── Java                      
 |   |   └── Android SDK           
 │   └── Flutter                   
