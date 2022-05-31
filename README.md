@@ -88,8 +88,8 @@ JSON         30 mins         █░░░░░░░░░░░░░░░░
     <td>
 <p>
           
-```java
-  ----------------Motivation----------------  
+```js
+  --------------Motivation--------------  
 always:
    try{
       your best &&;
@@ -107,7 +107,7 @@ always:
       everytime you fail;
       reach out for help;
    }
-  ----------------Motivation----------------  
+  --------------Motivation--------------  
 ```
 </p>
     </td>
