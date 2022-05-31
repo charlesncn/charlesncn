@@ -14,11 +14,14 @@
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react&hide_title=true"/> <br>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesncn&layout=compact&theme=react&hide_title=true&langs_count=10&card_width=443)](https://github.com/charlesncn/github-readme-stats"/>
     </td>
-    <td valign="top" width="30%">
-            <img src="https://github.com/charlesncn/charlesncn/blob/main/thumbs-up.gif">
-    </td>
+    <td valign="top" width="55%">
+            <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+
+    
   </tr>
 </table>
+
+<!--             <img src="https://github.com/charlesncn/charlesncn/blob/main/thumbs-up.gif"> -->
 
 <!--
 ## Current Projects:
