@@ -147,13 +147,13 @@ always:
  </div>
  
  **Construction Project Management System**
-> *Language* Java.   [View Code](https://github.com/charlesncn/CPMS)
+> *Language:* Java.   [View Code](https://github.com/charlesncn/CPMS)
 
 **Markdown BLOG**
-> *Technologies* MongoDb, Ejs, React, NodeJs.  [View Code](https://github.com/charlesncn/Mern_Blog)
+> *Technologies:* MongoDb, Ejs, React, NodeJs.  [View Code](https://github.com/charlesncn/Mern_Blog)
 
 **Food Orderng App**
-> *Technologies* MongoDb, Ejs, React, NodeJs.  [View Code](https://github.com/charlesncn/food_ordering_mern)
+> *Technologies:* MongoDb, Ejs, React, NodeJs.  [View Code](https://github.com/charlesncn/food_ordering_mern)
 
 <div>
 
