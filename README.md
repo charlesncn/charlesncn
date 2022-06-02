@@ -64,23 +64,23 @@ JSON         30 mins         █░░░░░░░░░░░░░░░░
 ```python
   ------------Roadmap------------
 └── WEB DEVELOPMENT               
-│   └── HTML | CSS                
+│   └── HTML & CSS                
 │   └── JavaScript                
-│   │   └── React                 
-│   │   └── Angular               
-└── API DEV | INTEGRATION       
+│       └── React                 
+│       └── Angular               
+└── API DEV & INTEGRATION       
 │   └── RESTful API               
-│   │   └── NodeJs                
-│   │   └── Java                  
-│   │   │   │   └── Spring Boot   
-│   │   └── Python                
-│   │   │   │   └── Flask         
-│   │   │   │   └── Django        
+│       └── NodeJs                
+│       └── Java                  
+│       │       └── Spring Boot   
+│       └── Python                
+│               └── Flask         
+│               └── Django        
 └── ANDROID DEV                   
-│   └── Java                      
-|   |   └── Android SDK           
-│   └── Flutter                   
-|   |   └── Dart                  
+    └── Java                      
+    |   └── Android SDK           
+    └── Flutter                   
+        └── Dart                  
   ------------Roadmap------------
 ```
 </p>
