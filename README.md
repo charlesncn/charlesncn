@@ -31,7 +31,7 @@ __) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesncn&layout=compact&theme=react&hide_title=true&langs_count=10&card_width=443)](https://github.com/charlesncn/github-readme-stats"/>
     </td>
     <td valign="top" width="50%">
-            <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
+            <img align="right" alt="GIF" src="https://raw.githubusercontent.com/charlesncn/files/main/gif.gif?raw=true" width="500" height="320"/>
   </tr>
 </table>
 
