@@ -115,19 +115,31 @@ always:
 </table>
 
 
-
-   
-
-
-
 <div align="center">
         
 ## Tech Skills & Tools
 
+</div>
+
+<table>
+  <td>
+<p>
+   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/charlesncn/files/main/ai.gif?raw=true" width="450" height="320"/>
+</p>
+    </td>
+    <td aligh="center">
+<div align="center">
+   
+### languages and frameworks
+   <br>
+   <br>
+   <br>
+   <br>
+
+   
 ![NPM](https://img.shields.io/badge/NPM-3670A0?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-3670A0?style=for-the-badge&logo=node.js&logoColor=white)
-
-
+       
 ![Figma](https://img.shields.io/badge/figma-3670A0?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-3670A0?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
@@ -138,6 +150,10 @@ always:
 ![CSS3](https://img.shields.io/badge/css3-3670A0?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
+    </td>
+  </tr>
+</table>
+   
 
 <div align="center">
 
