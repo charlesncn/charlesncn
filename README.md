@@ -18,12 +18,6 @@ __) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-<div style="display:flex" class="parent">
-<!--         <span style="width:50">hey</span>
-        <span>hey</span> -->
-        
-        
-</div>
 
 <table border=0.1px>
   <tr>
@@ -172,12 +166,14 @@ always:
 **Food Orderng App**
 > *Technologies:* MongoDb, Ejs, React, NodeJs.  [View Code](https://github.com/charlesncn/food_ordering_mern)
 
+
+
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/charlesncn/files/main/image.png"/>        
+<p>
+   
 <div>
-
-
-<!-- 
-## Fun Fact
-![Hehe](https://github.com/charlesncn/charlesncn/blob/main/thumbs-up.gif) -->
 
 <div align="center">
         
