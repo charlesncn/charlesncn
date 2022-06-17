@@ -151,21 +151,25 @@ always:
    
 
 <div align="center">
-
-
-## Current Projects
    
- </div>
+<p align="center">
+   
+## Current Projects
  
- **Construction Project Management System**
-> *Language:* Java.   [View Code](https://github.com/charlesncn/CPMS)
+### Construction Project Management System
+*Language:* Java.\
+Click [here](https://github.com/charlesncn/CPMS) to view code
+<br/>
+### Markdown BLOG
+*Technologies:* MongoDb, Ejs, React, NodeJs.\
+Click [here ](https://github.com/charlesncn/Mern_Blog) to view the code
+<br/>
+### Food Orderng App
+*Technologies:* MongoDb, Ejs, React, NodeJs.\
+Click [here](https://github.com/charlesncn/food_ordering_mern) to view the project
 
-**Markdown BLOG**
-> *Technologies:* MongoDb, Ejs, React, NodeJs.  [View Code](https://github.com/charlesncn/Mern_Blog)
-
-**Food Orderng App**
-> *Technologies:* MongoDb, Ejs, React, NodeJs.  [View Code](https://github.com/charlesncn/food_ordering_mern)
-
+       
+<p>
 
 
 
