@@ -31,7 +31,7 @@ __) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |
 
 <div align="center">
 
-## My Work Day Snapshot
+## Snapshot of a Typical Work Day
    
 </div>
 
@@ -45,7 +45,7 @@ JSON         30 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-## My Programming Roadmap
+## My Programming Roadmap && Motivation
   
 </div>
 
