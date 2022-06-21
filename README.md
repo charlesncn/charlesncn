@@ -43,6 +43,10 @@ Linux        45 mins         ██▒░░░░░░░░░░░░░░
 JSON         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    5.00 %
 ```
 
+<!-- <a href="http://www.github.com/charlesncn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesncn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
+
+<a href="http://www.github.com/charlesncn"><img src="https://activity-graph.herokuapp.com/graph?username=charlesncn&bg_color=1b212e&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <div align="center">
   
 ## My Programming Roadmap && Motivation
@@ -110,6 +114,8 @@ always:
 
 
 <div align="center">
+   
+   
         
 ## Tech Skills & Tools
 
