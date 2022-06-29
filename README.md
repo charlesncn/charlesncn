@@ -167,12 +167,6 @@ always:
    
 <table border="0px" width="20%">
   <tr>
-<!--     <td valign="center">
-
-### Construction Project Management <br> System
-*Language:* Java.\
-Click [here](https://github.com/charlesncn/CPMS) to view code 
-    </td> -->
     <td>
        <table border="0px" width="20%">
   <tr>
