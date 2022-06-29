@@ -1,4 +1,4 @@
-```ts {monaco}
+```java {monaco}
 user@GITHUB:~$ whoami
    ___   _                   _            
   / __| | |_    __ _   _ _  | |  ___   ___
@@ -12,6 +12,22 @@ __) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |
                                                   |   
 ```
 
+---
+layout: two-cols
+---
+
+<template v-slot:default>
+
+# Left
+
+This shows on the left
+
+</template>
+<template v-slot:right>
+
+# Right
+
+This shows on the right
 
 
 <!-- #### I am a junior software engineer and blockchain developer with a passion for developing innovative solutions. -->
