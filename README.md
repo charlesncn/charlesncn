@@ -170,10 +170,14 @@ always:
     <td valign="center">
        <tr>
           <td>
+             <tr>
+                <td>
 
-### Construction Project Management App
+### Construction Site Management App
 *Language:* Java.\
-Click [here](https://github.com/charlesncn/CPMS) to view code 
+Click [here](https://github.com/charlesncn/CPMS) to view code
+                </td>
+             </tr>
           </td>
        </tr>
     </td>      
