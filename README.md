@@ -1,6 +1,11 @@
----
-This is a default page without any additional metadata:: This is a default page without any additional metadata
----
+//```ts {2-3|5|all}
+function add(
+  a: Ref<number> | number,
+  b: Ref<number> | number
+) {
+  return computed(() => unref(a) + unref(b))
+}
+//```
 
 ```java {monaco}
 user@GITHUB:~$ whoami
