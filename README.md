@@ -160,9 +160,7 @@ always:
    
    ## Current Projects
 </div>
-   
----
-   
+
 <div width="200">
    
 <table border="0px" width="20%">
@@ -183,7 +181,9 @@ Click [here](https://github.com/charlesncn/CPMS) to view code
 </div>
    
 ---
-   
+
+::right::
+
 <div align="center">
    
 <table border="0px" width="20%">
@@ -221,9 +221,6 @@ Click [here](https://github.com/charlesncn/food_ordering_mern) to view the proje
   </tr>
 </table>
 </div>
-   
----
-        
 
 
 
