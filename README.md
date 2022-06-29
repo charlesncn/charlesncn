@@ -163,7 +163,7 @@ always:
    ## Current Projects
 </div>
 
-<div align="left" width="400">
+<div align="left" width="200">
    
    <p align="center">
       
