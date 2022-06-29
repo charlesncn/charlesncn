@@ -168,18 +168,16 @@ always:
    ### Construction Project Management System
    *Language:* Java.\
    Click [here](https://github.com/charlesncn/CPMS) to view code
-   <br/>
 
 </div>
 
-<p align="center">
+<div align="center">
 
-### Markdown BLOG
-*Technologies:* MongoDb, Ejs, React, NodeJs.\
-Click [here ](https://github.com/charlesncn/Mern_Blog) to view the code
-<br/>
+   ### Markdown BLOG
+   *Technologies:* MongoDb, Ejs, React, NodeJs.\
+   Click [here ](https://github.com/charlesncn/Mern_Blog) to view the code
 
-</p>
+</div>
 
 <div align="right">
 
