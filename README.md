@@ -198,7 +198,7 @@ Click [here](https://github.com/charlesncn/food_ordering_mern) to view the proje
    <img src="https://raw.githubusercontent.com/charlesncn/files/main/image.png"/>        
 <p>
    
-<div>
+<!-- <div> -->
 
 <div align="center">
         
