@@ -165,12 +165,14 @@ always:
 
 <div align="left" width="200">
    
-<table border="0px">
+<table border="0px" width="20%">
   <tr>
-    <td valign="center" width="20%">
+    <td valign="center">
+       
       ### Construction Project Management <br> System
       *Language:* Java.\
       Click [here](https://github.com/charlesncn/CPMS) to view code
+       
     </td>
   </tr>
 </table>
