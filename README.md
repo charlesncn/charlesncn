@@ -161,19 +161,32 @@ always:
 <p align="center">
    
 ## Current Projects
- 
+
+<p align="left">
+
 ### Construction Project Management System
 *Language:* Java.\
 Click [here](https://github.com/charlesncn/CPMS) to view code
 <br/>
+
+</p>
+
+<p align="center">
+
 ### Markdown BLOG
 *Technologies:* MongoDb, Ejs, React, NodeJs.\
 Click [here ](https://github.com/charlesncn/Mern_Blog) to view the code
 <br/>
+
+</p>
+
+<p align="right">
+
 ### Food Orderng App
 *Technologies:* MongoDb, Ejs, React, NodeJs.\
 Click [here](https://github.com/charlesncn/food_ordering_mern) to view the project
 
+</p>
        
 <p>
 
