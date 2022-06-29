@@ -159,9 +159,7 @@ always:
 <!-- <div align="center"> -->
    
 <p align="center">
-   
 ## Current Projects
-
 </p>
 
 <p align="left">
