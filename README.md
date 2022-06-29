@@ -181,13 +181,13 @@ Click [here ](https://github.com/charlesncn/Mern_Blog) to view the code
 
 </p>
 
-<p align="right">
+<div align="right">
 
-### Food Orderng App
-*Technologies:* MongoDb, Ejs, React, NodeJs.\
-Click [here](https://github.com/charlesncn/food_ordering_mern) to view the project
+   ### Food Orderng App
+   *Technologies:* MongoDb, Ejs, React, NodeJs.\
+   Click [here](https://github.com/charlesncn/food_ordering_mern) to view the project
 
-</p>
+</div>
        
 
 
