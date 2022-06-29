@@ -18,20 +18,29 @@ __) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
+
+<div align="center">
+   
+## Statistics
+   
+</div>
+
 <div align="center">
    
    <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/charlesncn/Drone-Management-API" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=charlesncn&repo=Drone-Management-API&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/charlesncn/Tweeter-BOT" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=charlesncn&repo=Tweeter-BOT&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/charlesncn/Drone-Management-API" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=charlesncn&repo=Drone-Management-API&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/charlesncn/Tweeter-BOT" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=charlesncn&repo=Tweeter-BOT&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/charlesncn/hand-Detection-python" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=charlesncn&repo=hand-Detection-python&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/charlesncn/Solidity-Datatypes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=charlesncn&repo=Solidity-Datatypes&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div>
    
-<a href="http://www.github.com/charlesncn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesncn&stroke=ffffff&background=1b212e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- <a href="http://www.github.com/charlesncn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesncn&stroke=ffffff&background=1b212e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
 </div>
+<br /><br /><br /><br />
 
+<br /><br />
 <table border=0.1px>
   <tr>
     <td valign="center"><a href="http://www.github.com/charlesncn"><img src="https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react&hide_title=true&hide_border=true" /></a> <br>
