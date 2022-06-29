@@ -182,8 +182,6 @@ Click [here](https://github.com/charlesncn/CPMS) to view code
    
 ---
 
-::right::
-
 <div align="center">
    
 <table border="0px" width="20%">
