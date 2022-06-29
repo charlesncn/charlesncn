@@ -162,6 +162,8 @@ always:
    
 ## Current Projects
 
+</p>
+
 <p align="left">
 
 ### Construction Project Management System
