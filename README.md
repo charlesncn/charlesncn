@@ -193,7 +193,6 @@ Click [here](https://github.com/charlesncn/CPMS) to view code
 
 ### Markdown BLOG               
 ---
-   
 *Technologies:* MongoDb, Ejs, React, NodeJs.\
 Click [here ](https://github.com/charlesncn/Mern_Blog) to view the code
           </td>
