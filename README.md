@@ -197,8 +197,7 @@ Click [here](https://github.com/charlesncn/CPMS) to view code
 Click [here ](https://github.com/charlesncn/Mern_Blog) to view the code
           </td>
        </tr>
-    </td>
-          
+    </td>      
   </tr>
 </table>
 
