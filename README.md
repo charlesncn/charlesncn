@@ -156,7 +156,7 @@ always:
 </table>
    
 
-<div align="center">
+<!-- <div align="center"> -->
    
 <p align="center">
    
@@ -188,7 +188,7 @@ Click [here](https://github.com/charlesncn/food_ordering_mern) to view the proje
 
 </p>
        
-<p>
+
 
 
 
