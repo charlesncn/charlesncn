@@ -163,12 +163,16 @@ always:
    ## Current Projects
 </div>
 
-<div align="left">
+<div align="left" width="400">
    
-   ### Construction Project Management System
-   *Language:* Java.\
-   Click [here](https://github.com/charlesncn/CPMS) to view code
-
+   <p align="center">
+      
+      ### Construction Project Management System
+      *Language:* Java.\
+      Click [here](https://github.com/charlesncn/CPMS) to view code
+      
+   </p>
+   
 </div>
 
 <div align="center">
