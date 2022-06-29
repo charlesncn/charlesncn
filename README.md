@@ -130,7 +130,9 @@ always:
 <div align="center">
    
 ### languages and frameworks
-   <br>
+                
+---
+   
    <br>
    <br>
    <br>
