@@ -170,6 +170,9 @@ always:
           <td>
 
 ### Construction Site Management App
+   
+---
+   
 *Language:* Java.\
 Click [here](https://github.com/charlesncn/CPMS) to view code
           </td>
@@ -179,8 +182,6 @@ Click [here](https://github.com/charlesncn/CPMS) to view code
 </table>
 
 </div>
-   
----
 
 <div align="center">
    
@@ -189,10 +190,11 @@ Click [here](https://github.com/charlesncn/CPMS) to view code
     <td valign="center">
        <tr>
           <td>
-             
----
 
 ### Markdown BLOG
+                
+---
+   
 *Technologies:* MongoDb, Ejs, React, NodeJs.\
 Click [here ](https://github.com/charlesncn/Mern_Blog) to view the code
           </td>
@@ -202,9 +204,7 @@ Click [here ](https://github.com/charlesncn/Mern_Blog) to view the code
 </table>
 
 </div>
-   
----
-   
+
 <div align="right">
 <table border="0px" width="20%">
   <tr>
@@ -213,6 +213,9 @@ Click [here ](https://github.com/charlesncn/Mern_Blog) to view the code
           <td>
              
 ### Food Orderng App
+                
+---
+   
 *Technologies:* MongoDb, Ejs, React, NodeJs.\
 Click [here](https://github.com/charlesncn/food_ordering_mern) to view the project
           </td>
