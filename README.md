@@ -1,26 +1,6 @@
 ---
-layout: cover
+This is a default page without any additional metadata: This is a default page without any additional metadata:This is a default page without any additional metadata:This is a default page without any additional metadata:This is a default page without any additional metadata
 ---
-
-# Slidev
-
-This is the cover page.
-
----
-layout: center
-background: './images/background-1.png](https://raw.githubusercontent.com/charlesncn/files/main/gif.gif?raw=true)'
-class: 'text-white'
----
-
-# Page 2
-
-This is a page with the layout `center` and a background image.
-
----
-
-# Page 3
-
-This is a default page without any additional metadata.
 
 ```java {monaco}
 user@GITHUB:~$ whoami
