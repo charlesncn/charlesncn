@@ -159,14 +159,16 @@ always:
 <!-- <div align="center"> -->
    
 <p align="center">
+   
 ## Current Projects
 </p>
 
 <p align="left">
-### Construction Project Management System
-*Language:* Java.\
-Click [here](https://github.com/charlesncn/CPMS) to view code
-<br/>
+   
+   ### Construction Project Management System
+   *Language:* Java.\
+   Click [here](https://github.com/charlesncn/CPMS) to view code
+   <br/>
 
 </p>
 
