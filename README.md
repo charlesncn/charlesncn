@@ -179,10 +179,17 @@ Click [here](https://github.com/charlesncn/CPMS) to view code
 </div>
 
 <div align="center">
+   
+<table border="0px" width="20%">
+  <tr>
+    <td valign="center">
 
-   ### Markdown BLOG
-   *Technologies:* MongoDb, Ejs, React, NodeJs.\
-   Click [here ](https://github.com/charlesncn/Mern_Blog) to view the code
+### Markdown BLOG
+*Technologies:* MongoDb, Ejs, React, NodeJs.\
+Click [here ](https://github.com/charlesncn/Mern_Blog) to view the code
+    </td>
+  </tr>
+</table>
 
 </div>
 
