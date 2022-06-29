@@ -163,7 +163,7 @@ always:
    ## Current Projects
 </div>
 
-<div align="left" width="200">
+<div width="200">
    
 <table border="0px" width="20%">
   <tr>
