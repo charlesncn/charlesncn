@@ -12,9 +12,6 @@ __) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |
                                                   |   
 ```
 
----
-
-
 
 <!-- #### I am a junior software engineer and blockchain developer with a passion for developing innovative solutions. -->
 <p align="center">
@@ -158,7 +155,8 @@ always:
 </table>
    
 
-<!-- <div align="center"> -->
+   
+---
    
 <div align="center">
    
@@ -223,14 +221,16 @@ Click [here](https://github.com/charlesncn/food_ordering_mern) to view the proje
   </tr>
 </table>
 </div>
-       
+   
+---
+        
 
 
 
-
+<!-- 
 <p align="center">
    <img src="https://raw.githubusercontent.com/charlesncn/files/main/image.png"/>        
-<p>
+<p> -->
    
 <!-- <div> -->
 
