@@ -1,17 +1,3 @@
-
-<!-- 
-<div width="100%" align="center"><span href="https://github.com/charlesncn/Drone-Management-API" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=charlesncn&repo=Drone-Management-API&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></span><span href="https://github.com/charlesncn/Tweeter-BOT" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=charlesncn&repo=Tweeter-BOT&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></span></div><br /><br /><br /><br />
-
-<br /><br /> -->
-
-
-
-
-
-<a href="https://github.com/charlesncn/CPMS"><table border="0px" width="20%"><tr><td valign="center"><tr><td><b>Construction Site Management App</b><br />Language: Java.<br />Click to view code</td></tr></td></tr></table></a>
-
-
-
 ```java {monaco}
 user@GITHUB:~$ whoami
    ___   _                   _            
@@ -199,8 +185,7 @@ always:
    
    ## Current Projects
    
-
-<div width="100%" align="center"><a href="https://github.com/charlesncn/CPMS" align="left"><table align="left" width="45%"><tr><td valign="center"><tr><td><b>Construction Site Management App</b><br />Language: Java.<br />Click To View Code</td></tr></td></tr></table></a><a href="https://github.com/charlesncn/Mern_Blog" align="right"><table align="right" width="45%"><tr><td valign="center"><tr><td><b>Markdown BLOG</b><br />Technologies: MongoDb, Ejs, React, NodeJs.<br \>Click To View Code</td></tr></td></tr></table></a></div><br /><br /><br /><br />
+<div width="100%" align="center"><span align="left"><table align="left" width="45%"><tr><td valign="center"><tr><td><b>Construction Site Management App</b><br />Language: Java.<br /><a href="https://github.com/charlesncn/CPMS">Click To View Code</a></td></tr></td></tr></table></span><span align="right"><table align="right" width="45%"><tr><td valign="center"><tr><td><b>Markdown BLOG</b><br />Technologies: MongoDb, Ejs, React, NodeJs.<br \><a  href="https://github.com/charlesncn/Mern_Blog">Click To View Code</a></td></tr></td></tr></table></span></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
    
 </div>
 
