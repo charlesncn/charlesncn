@@ -165,13 +165,13 @@ always:
 
 <div align="left" width="400">
    
-   <div align="center">
+   <p align="center">
       
    ### Construction Project Management System
    *Language:* Java.\
    Click [here](https://github.com/charlesncn/CPMS) to view code
       
-   </div>
+   </p>
    
 </div>
 
