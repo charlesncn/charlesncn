@@ -185,64 +185,11 @@ always:
    
    ## Current Projects
    
-<div width="100%" align="center"><span align="left"><table align="center" width="30%"><tr><td><tr><td><b>Construction Site Management App</b><br />Language: Java.<br /><a href="https://github.com/charlesncn/CPMS">Click To View Code</a></td></tr></td></tr></table></span><span align="center"><table align="center" width="30%"><tr><td><tr><td><b>Markdown BLOG</b><br />Technologies: MongoDb, Ejs, React, NodeJs.<br \><a  href="https://github.com/charlesncn/Mern_Blog">Click To View Code</a></td></tr></td></tr></table></span></span><span align="right"><table align="center" width="30%"><tr><td><tr><td><b>Markdown BLOG</b><br />Technologies: MongoDb, Ejs, React, NodeJs.<br \><a  href="https://github.com/charlesncn/Mern_Blog">Click To View Code</a></td></tr></td></tr></table></span></div><br /><br /><br /><br />
+<div width="100%" align="center"><span align="left"><table align="left" width="33%"><tr><td><tr><td><b>Construction Site Management App</b><br />Language: Java.<br /><a href="https://github.com/charlesncn/CPMS">Click To View Code</a></td></tr></td></tr></table></span><span align="center"><table align="right" width="30%"><tr><td><tr><td><b>Markdown BLOG</b><br />Technologies: MongoDb, Ejs, React, NodeJs.<br \><a  href="https://github.com/charlesncn/Mern_Blog">Click To View Code</a></td></tr></td></tr></table></span></span><span align="right"><table align="right" width="30%"><tr><td><tr><td><b>Food Orderng App</b><br />Technologies: MongoDb, Ejs, React, NodeJs.<br \><a  href="https://github.com/charlesncn/food_ordering_mern">Click To View Code</a></td></tr></td></tr></table></span></div><br /><br /><br /><br />
 
 </div>
 
-<div width="200">
-   
-<table border="0px" width="20%">
-  <tr>
-    <td valign="center">
-       <tr>
-          <td>
 
-### Construction Site Management App
-*Language:* Java.\
-Click [here](https://github.com/charlesncn/CPMS) to view code
-          </td>
-       </tr>
-    </td>      
-  </tr>
-</table>
-
-</div>
-
-<div align="center">
-   
-<table border="0px" width="20%">
-  <tr>
-    <td valign="center">
-       <tr>
-          <td>
-
-### Markdown BLOG               
-*Technologies:* MongoDb, Ejs, React, NodeJs.\
-Click [here ](https://github.com/charlesncn/Mern_Blog) to view the code
-          </td>
-       </tr>
-    </td>      
-  </tr>
-</table>
-
-</div>
-
-<div align="right">
-<table border="0px" width="20%">
-  <tr>
-    <td valign="center">
-       <tr>
-          <td>
-             
-### Food Orderng App
-*Technologies:* MongoDb, Ejs, React, NodeJs.\
-Click [here](https://github.com/charlesncn/food_ordering_mern) to view the project
-          </td>
-       </tr>
-    </td>      
-  </tr>
-</table>
-</div>
 
 
 
