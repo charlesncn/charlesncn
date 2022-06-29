@@ -167,7 +167,7 @@ always:
    
    <p align="center">
       
-   ### Construction Project <br> Management System
+   ### Construction Project Management <br> System
    *Language:* Java.\
    Click [here](https://github.com/charlesncn/CPMS) to view code
       
