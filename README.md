@@ -1,5 +1,5 @@
 ---
-This is a default page without any additional metadata: This is a default page without any additional metadata
+This is a default page without any additional metadata:: This is a default page without any additional metadata
 ---
 
 ```java {monaco}
