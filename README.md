@@ -155,14 +155,14 @@ always:
 </table>
    
 
-   
----
-   
+
 <div align="center">
    
    ## Current Projects
 </div>
-
+   
+---
+   
 <div width="200">
    
 <table border="0px" width="20%">
