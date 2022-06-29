@@ -18,7 +18,7 @@ __) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-<table>
+<table width="100%">
    <tr>
       <td valign="center">
 <a href="http://www.github.com/charlesncn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesncn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
