@@ -13,21 +13,7 @@ __) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |
 ```
 
 ---
-layout: two-cols
----
 
-<template v-slot:default>
-
-# Left
-
-This shows on the left
-
-</template>
-<template v-slot:right>
-
-# Right
-
-This shows on the right
 
 
 <!-- #### I am a junior software engineer and blockchain developer with a passion for developing innovative solutions. -->
@@ -195,9 +181,11 @@ Click [here](https://github.com/charlesncn/CPMS) to view code
     </td>      
   </tr>
 </table>
-   
-</div>
 
+</div>
+   
+---
+   
 <div align="center">
    
 <table border="0px" width="20%">
@@ -216,7 +204,9 @@ Click [here ](https://github.com/charlesncn/Mern_Blog) to view the code
 </table>
 
 </div>
-
+   
+---
+   
 <div align="right">
 <table border="0px" width="20%">
   <tr>
