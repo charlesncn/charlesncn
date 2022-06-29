@@ -191,8 +191,7 @@ Click [here](https://github.com/charlesncn/CPMS) to view code
        <tr>
           <td>
 
-### Markdown BLOG
-                
+### Markdown BLOG               
 ---
    
 *Technologies:* MongoDb, Ejs, React, NodeJs.\
