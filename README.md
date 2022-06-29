@@ -1,4 +1,4 @@
-```java
+```ts {monaco}
 user@GITHUB:~$ whoami
    ___   _                   _            
   / __| | |_    __ _   _ _  | |  ___   ___
