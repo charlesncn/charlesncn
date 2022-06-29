@@ -18,17 +18,15 @@ __) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-<table width="100%">
-   <tr>
-      <td valign="center">
+<div align="center">
+   
 <a href="http://www.github.com/charlesncn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=charlesncn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-      <td>
-   </tr>
-</table>
+
+</div>
 
 <table border=0.1px>
   <tr>
-    <td valign="center"><img src="https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react&hide_title=true"/> <br>
+    <td valign="center"><a href="http://www.github.com/charlesncn"><img src="https://github-readme-stats.vercel.app/api?username=charlesncn&count_private=true&show_icons=true&theme=react&hide_title=true" /></a> <br>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesncn&layout=compact&theme=react&hide_title=true&langs_count=10&card_width=443)](https://github.com/charlesncn/github-readme-stats"/>
     </td>
     <td valign="center" width="50%">
