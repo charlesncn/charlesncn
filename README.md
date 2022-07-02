@@ -153,7 +153,7 @@ always:
     <td aligh="center">
 <div align="center">
    
-### languages and frameworks
+### languages, tools and frameworks
                 
 ---
    
