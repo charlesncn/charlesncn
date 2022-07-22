@@ -21,7 +21,7 @@ __) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |
 
 <div align="center">
    
-## Statistics
+## Stats
    
 </div>
 
