@@ -65,9 +65,10 @@ __) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |
    
    ## Stuff I worked on last week
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@charlesncn&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=charlesncn&compact=True"/>
 </a>
    <br/><br/>
+   
 
 ## Snapshot of a Typical Work Day
    
