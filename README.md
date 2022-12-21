@@ -62,6 +62,12 @@ __) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |
 <a href="http://www.github.com/charlesncn"><img src="https://activity-graph.herokuapp.com/graph?username=charlesncn&bg_color=1b212e&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <div align="center">
+   
+   ## Stuff I worked on last week
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@charlesncn&compact=True"/>
+</a>
+   <br/><br/>
 
 ## Snapshot of a Typical Work Day
    
