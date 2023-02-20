@@ -14,8 +14,8 @@ __) (_) |  |_ \)/ (_| |  (-   |__/ (- \/ (- | (_) |_) (- |
 
 ```
 
+[![](https://visitcount.itsvg.in/api?id=charlesncn&icon=&color=0)](http://www.github.com/charlesncn)
 
-<!-- #### I am a junior software engineer and blockchain developer with a passion for developing innovative solutions. -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
